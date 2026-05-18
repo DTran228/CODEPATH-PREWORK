@@ -33,11 +33,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
-
-👉🏿 Add GIF or video link here
-
-GIF created with ... ScreenToGif
+Google Drive video link: https://drive.google.com/file/d/1wZ_xzqpnR1CrrmAV3ZoE8TRo8s5t-IsO/view?usp=sharing
 
 ## Notes
 
